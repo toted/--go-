@@ -1,0 +1,39 @@
+div{
+    margin:2px;
+    border:1px solid goldenrod;
+    padding:2px;
+    height:36px;
+    width:224px;
+}
+button{
+    margin:1px;
+    border:1px solid grey;
+    height:30px;
+    width:50px;
+}
+#display{
+    background: rgb(219, 248, 243);
+    margin:2px;
+    border:1px solid goldenrod;
+    padding:5px;
+    height:120px;
+    width:218px;
+}
+#process{
+    background: rgb(219, 248, 243);
+    margin:none;
+    padding:none;
+    height:65px;
+    width:216px;
+    border:none;
+    text-align: right;
+}
+#result{
+    background: rgb(219, 248, 243);
+    border:none;
+    margin:none;
+    padding:none;
+    height:45px;
+    width:216px;
+    text-align: right;
+}
